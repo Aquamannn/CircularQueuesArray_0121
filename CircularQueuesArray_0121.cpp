@@ -94,3 +94,23 @@ public:
 	}
 };
 
+int main() {
+	Queues q;
+	char ch;
+
+	while (true) {
+		try {
+			cout << "Menu" << endl;
+			cout << "1. implement insert operation" << endl;
+			cout << "2. implement delete operation" << endl;
+			cout << "3. display value" << endl;
+			cout << "4. exit" << endl;
+			cout << "ENter your choice (i-4): ";
+			cin >> ch;
+			cout << endl;
+
+
+		}
+	}
+}
+
