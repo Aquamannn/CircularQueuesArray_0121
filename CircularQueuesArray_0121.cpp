@@ -124,7 +124,7 @@ int main() {
 				break;
 			}
 			case '4': {
-				return;
+				return 0;
 			}
 			default: {
 				cout << "Ivalid option!!" << endl;
